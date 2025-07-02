@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/bandeira-adobe/aco-storefront01/
+    url: https://content.da.live/bandeira-adobe/aco-storefront03/
     type: markup
 
 folders:
